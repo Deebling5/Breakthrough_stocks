@@ -12,6 +12,9 @@
 ## Breakout stocks Screener
 
 * Takes into consideration last 15 days data and presents breakout stocks and those currently consolidating
+* This part is done in Streamlit
 * Scans stocks hovering within 3.5 % price rnage in past 15 days, which strongly shows its under consolidation and can breakout 
 
 ![Breakout](https://github.com/Deebling5/Breakthrough_stocks/blob/main/2.PNG?raw=true)
+
+* Entire project can be deployed via Streamlit.
