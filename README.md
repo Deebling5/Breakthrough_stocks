@@ -5,6 +5,8 @@
 * This can be streched over to 8000 stocks as per conditons
 * Analyses Bearish and Bullish sentiment from over 25 technical indicators
 
+* To Run -> Flask run in Prompt
+
 ![Technical](https://github.com/Deebling5/Breakthrough_stocks/blob/main/1.PNG?raw=true)
 
 
@@ -17,4 +19,7 @@
 
 ![Breakout](https://github.com/Deebling5/Breakthrough_stocks/blob/main/2.PNG?raw=true)
 
+* To Run -> Streamlit run streamapp.py in Prompt
+
 * Entire project can be deployed via Streamlit.
+
